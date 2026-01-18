@@ -1,0 +1,22 @@
+name: namingapp
+description: "A name finding app with authentication."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  english_words: ^4.0.0
+  provider: ^6.1.5
+  local_auth: ^3.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+flutter:
+  uses-material-design: true
