@@ -1,10 +1,13 @@
-# namer2
+# naming app
 
 A new Flutter project.
 
-## Getting Started
+## discription
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application
+this projectis basically made by me to test latest flutter local_auth package features and working concepts .
+the app holds basic functionality to suggest a new random word made up of two words .. 
+u need to authenticate to the device anyway to acces the home page of the app...
 
 A few resources to get you started if this is your first Flutter project:
 
